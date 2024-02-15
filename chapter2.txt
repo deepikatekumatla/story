@@ -1,1 +1,1 @@
-this is a file created to work on git topic
+git is an interesting one 
